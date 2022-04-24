@@ -1,5 +1,6 @@
-# practice-Markdown-syntax
-practice using Markdown syntax to modify a README.md
+# *practice-Markdown-syntax
+---
+** practice using Markdown syntax to modify a README.md 
 
 # Level 1 Heading (#)
 
@@ -7,4 +8,4 @@ practice using Markdown syntax to modify a README.md
 
 ### Level 3 Heading (###)
 
-Above is an exercise in creating Levels 1, 2 & 3 (#, ##, ###) Headings nin Markdown Language!
+* Above is an exercise in creating Levels 1, 2 & 3 (#, ##, ###) Headings nin Markdown Language!
