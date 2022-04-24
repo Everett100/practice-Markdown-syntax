@@ -1,6 +1,6 @@
-# * practice-Markdown-syntax
+# *practice-Markdown-syntax*
 ---
-**practice using Markdown syntax to modify a README.md 
+**practice using Markdown syntax to modify a README.md** 
 
 # Level 1 Heading (#)
 
